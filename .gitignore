@@ -1,0 +1,20 @@
+# Eclipce ignore files/folders
+bin
+gen
+obj
+.settings
+.classpath
+gdbserver
+gdb.setup
+build
+.gradle
+.idea
+.xmind
+local.properties
+*.iml
+*.xmind
+*.hprof
+*.log
+libs
+release
+aars
